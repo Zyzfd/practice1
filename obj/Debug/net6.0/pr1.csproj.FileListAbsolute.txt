@@ -1,0 +1,15 @@
+/home/zyzf/code/practice1/pr1/bin/Debug/net6.0/pr1
+/home/zyzf/code/practice1/pr1/bin/Debug/net6.0/pr1.deps.json
+/home/zyzf/code/practice1/pr1/bin/Debug/net6.0/pr1.runtimeconfig.json
+/home/zyzf/code/practice1/pr1/bin/Debug/net6.0/pr1.dll
+/home/zyzf/code/practice1/pr1/bin/Debug/net6.0/ref/pr1.dll
+/home/zyzf/code/practice1/pr1/bin/Debug/net6.0/pr1.pdb
+/home/zyzf/code/practice1/pr1/obj/Debug/net6.0/pr1.csproj.AssemblyReference.cache
+/home/zyzf/code/practice1/pr1/obj/Debug/net6.0/pr1.GeneratedMSBuildEditorConfig.editorconfig
+/home/zyzf/code/practice1/pr1/obj/Debug/net6.0/pr1.AssemblyInfoInputs.cache
+/home/zyzf/code/practice1/pr1/obj/Debug/net6.0/pr1.AssemblyInfo.cs
+/home/zyzf/code/practice1/pr1/obj/Debug/net6.0/pr1.csproj.CoreCompileInputs.cache
+/home/zyzf/code/practice1/pr1/obj/Debug/net6.0/pr1.dll
+/home/zyzf/code/practice1/pr1/obj/Debug/net6.0/ref/pr1.dll
+/home/zyzf/code/practice1/pr1/obj/Debug/net6.0/pr1.pdb
+/home/zyzf/code/practice1/pr1/obj/Debug/net6.0/pr1.genruntimeconfig.cache
